@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi, I'm Victor Sokunbi 👋
+## Hello I'm Victor Sokunbi 👋
 
 ### Juniour Data Analyst | SQL | Excel | Power BI
 
