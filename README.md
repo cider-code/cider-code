@@ -22,4 +22,3 @@ I'm passionate about data analytics, data visualisation, and transforming raw da
 - Power BI visualisations and business intelligence projects.
 
 I'm continuously learning, building and documenting my journey in data analytics.
--->
